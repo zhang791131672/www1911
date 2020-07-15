@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 Route::get('/test','TestController@index');
 Route::get('/token','TestController@getAccessToken');
+Route::get('/token2','TestController@getAccessToken2');
