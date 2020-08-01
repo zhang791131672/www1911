@@ -81,18 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   api-1911
+                   WWW
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/login/oauth/authorize?client_id=03ddbac7c9673b220cf8&redirect_uri=http://1911zbw.comcto.com/oauth/authorize">GitHub</a>
                 </div>
             </div>
         </div>
